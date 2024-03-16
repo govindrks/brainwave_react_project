@@ -210,7 +210,7 @@ import {
       id: "0",
       title: "Basic",
       description: "AI chatbot, personalized recommendations",
-      price: "0",
+      price: "0/mo",
       features: [
         "An AI chatbot that can understand your queries",
         "Personalized recommendations based on your preferences",
@@ -221,7 +221,7 @@ import {
       id: "1",
       title: "Premium",
       description: "Advanced AI chatbot, priority support, analytics dashboard",
-      price: "9.99",
+      price: "999/mo",
       features: [
         "An advanced AI chatbot that can understand complex queries",
         "An analytics dashboard to track your conversations",
